@@ -8,6 +8,10 @@ golang gorilla/mux mvc template
 * edit ``setting/option.go``
 * update ``models/logger/logger.go`` name
 
+## note
+
+* router at ``controllers/controllers.go``
+
 ## env
 
 * ``PORT``: ex ``8008``
